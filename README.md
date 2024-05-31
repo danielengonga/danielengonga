@@ -3,12 +3,12 @@
 ## 📫 Cómo contactarme:
 - LinkedIn
     <a href="https://www.linkedin.com/in/daniel-engonga-m-8031851bb">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="linkedin" width="15" height="15" />
-</a> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="linkedin" width="15" height="15" />
+    </a> 
 - Gmail
    <a href="https://www.linkedin.com/in/daniel-engonga-m-8031851bb">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="15" height="15" />
-</a> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="15" height="15" />
+    </a> 
 - Twitter
 - Facebook
 - Whatsapp
