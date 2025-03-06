@@ -5,6 +5,7 @@ Soy un apasionado desarrollador de software con un enfoque en la **gestión de s
 
 ## 💻 Áreas de Interés
 - **Desarrollo de Software**
+- **Inteligencia Artificial**
 - **Gestión de Sistemas**
 - **Creación de Aplicaciones Escalables y Eficientes**
 - **Arquitecturas de Microservicios**
